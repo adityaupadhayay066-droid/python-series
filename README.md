@@ -1,22 +1,17 @@
-# 🧮 Python Calculator  
+# 🧮 Calculator using  Python  
 
-A simple Python program which performs basic arithmetic calculations.  
-This is one of my beginner projects in Python, and I'll continue to add new features to this 🙂 .  
+ A basic arithmetic program written in Python.  
+ This is one of my first Python projects, and I plan to keep adding new features. 🚀  
 
----
 
-## ✅ Features  
-- Addition ➕  
-- Subtraction ➖  
-- Multiplication ✖️  
-- Division ➗ (divide by zero error handling)  
-- Cube of a number 🔲  
+ ---
 
----  
+ ## ✅ Features: - Multiplication ✖️ - Subtraction ➖ - Addition ➕  
+ Division ➗ (with error correction for division by zero)  
+ A number's cube 🔲  
 
-## ▶️ Running the Code  
+ ---
 
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com//python-series.git  
-   cd python-series  
+ ## ▶️  How to Run  
+
+ Clone this repository by executing the following command: ```bash git clone https://github.com/adityaupadhayay066-droid/python-series.git cd python-series
