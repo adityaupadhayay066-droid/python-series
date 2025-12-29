@@ -2,7 +2,7 @@ import pandas as pd
 data = {
     "StudentID":  [18,54,56],
     "Name": ["Alice", "Johnson","Charlie"],
-    "Subject": ["Maths", "CS", "Physics"]
+    "Subject": ["Maths", "Computer Science", "Physics"]
 
 }
 df=pd.DataFrame(data)
