@@ -1,0 +1,7 @@
+1-Understand the data set 
+(i) identiy the row and column and which type of data is it name, dates
+2- Identify the problems
+     Someone Enter wrong data mean address is place  of name and dob is the place of age , dublicate entry 
+3- Plan next step  
+
+               # in head and tail method we can pass int data type bcz of it will accept only int type data not float,str 
