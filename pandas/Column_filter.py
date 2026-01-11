@@ -13,7 +13,7 @@ print(df['Brand']) #Without using variable
 
 # printing multicolumn
 print("                  \n m_c with Brand and Price                  ")
-print("\n m_c with Brand Mahindra and Price > 150000")
-m_c = df[(df["Brand"] == "Mahindra") & (df["Price"] > 150000)]
-print(m_c)
+print("\n column filter  with Brand Mahindra and Price > 150000")
+column_filter = df[(df["Brand"] == "Mahindra") & (df["Price"] > 150000)]
+print(column_filter)
 
